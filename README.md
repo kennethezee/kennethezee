@@ -1,10 +1,6 @@
 <!-- Animated header -->
 # Howdy, 👋 I'm Kenneth Eze
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=White&center=true&vCenter=true&width=435&lines=Art+and+Technology" />
-</div>
-
 Data Analyst | Software Developer <br>
 Python • SQL • Tableau<br>
 
