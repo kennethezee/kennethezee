@@ -1,16 +1,14 @@
 <!-- Animated header -->
-# Hi there 👋 I'm [Kenneth Eze]
+# Howdy, 👋 I'm Kenneth Eze
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Passionate+about+Art+and+Technology" />
 </div>
 
-## 🚀 About Me
+Data Analyst | Software Developer <br>
+Python • SQL • Tableau<br>
 
-Data Analyst | Software Developer
-Python • SQL • Tableau
-
-Data is the driving force for decision making and I enjoy diving head first into the data to find those hidden clues you would find else where.
+Data is the driving force for decision making and I enjoy diving head first into the data to find those hidden clues you would find else where.<br>
 
 Currently: Looking for fulltime work whilst creating personal projects.
 
@@ -37,7 +35,9 @@ Currently: Looking for fulltime work whilst creating personal projects.
 📽️ **Box Office Predictor and Analysis** <br>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=sql&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<br>
 <br>
 Business Problem: People are not going to the movies anymore, Streaming is gradually taking over, and Ticket prices are slowly rising.
 
@@ -56,7 +56,7 @@ Business Applications/Solution:
     ...TBA
     
 
-Skills: Data Visualization • Regulatory Reporting • APIs • Python • Tableau
+Skills: Data Visualization • Regulatory Reporting • APIs
 
 ---
   
