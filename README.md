@@ -14,10 +14,13 @@ Data is the driving force for decision making and I enjoy diving head first into
 
 Currently: Looking for fulltime work whilst creating personal projects.
 
+</div>
+
+---
+
+<div align="center">
+  
 ## 💻 Tech Stack
-
-## 🧠 Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -59,6 +62,12 @@ Business Applications/Solution:
 
 Skills: Data Visualization • Regulatory Reporting • APIs • Python • Tableau
 
+</div>
+
+---
+
+<div align="center">
+  
 **🌟 The Mall App**<br>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=flutter&logoColor=white" />
