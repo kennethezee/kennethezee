@@ -2,7 +2,7 @@
 # Howdy, 👋 I'm Kenneth Eze
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Passionate+about+Art+and+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Art+and+Technology" />
 </div>
 
 Data Analyst | Software Developer <br>
@@ -11,6 +11,8 @@ Python • SQL • Tableau<br>
 Data is the driving force for decision making and I enjoy diving head first into the data to find those hidden clues you would find else where.<br>
 
 Currently: Looking for fulltime work whilst creating personal projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/kenneth-eze/))
+
 
 ---
   
