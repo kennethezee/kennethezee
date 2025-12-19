@@ -99,5 +99,9 @@ features.
 ---
 
 <div align="center">
-  💡 Open to collaboration and new opportunities!
+  
+<i>“The acceptance of certain realities doesn't preclude idealism. It can lead to certain breakthroughs.” 
+
+— Rem Koolhaas</i>
+
 </div>
