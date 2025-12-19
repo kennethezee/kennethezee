@@ -62,29 +62,28 @@ Skills: Data Visualization • Regulatory Reporting • APIs
   
 **🌟 The Mall App**<br>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=dart&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+<br>
 <br>
 **Overview** <br>
 
 • Designed and maintained centralized dashboard systems to provide a friendly user interface for student activities, clubs, service
 times, and assignment monitoring. Implemented data storage techniques and database optimization using NoSQL systems to
-efficiently store and retrieve user data resulting in faster accessing times for in-app functions. <br>
+efficiently store and retrieve user data resulting in faster accessing times for in-app functions. <br><br>
 • Led comprehensive data collection, processing, and analysis for university’s digital platform serving 1,000+ users,
 implementing advanced analytics tracking using Firebase Analytics and Google Analytics allowing in timely distribution of app
-packages.<br>
+packages.<br><br>
 • Collaborated and with a cross-functional engineering team of 5 members to define critical data measurements, analyze system
 performance metrics, and develop effective in-app features for faculty and students resulting in a 25% in app traffic per school
-year. <br>
+year. <br><br>
 • Presented technical findings and process improvement opportunities in bi-weekly meetings with faculty leadership to
 drive strategic decision-making and organizational performance evaluation resulting in effective and consistent shipment of new
 features.
 <br> <br>
+[![UD Mall App](https://img.shields.io/badge/UD%20Mall%20App-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/ge/app/the-mall-ud/id1581190123)
 
-<div align="center">
-  [![UD Mall App](https://img.shields.io/badge/UD%20Mall%20App-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/ge/app/the-mall-ud/id1581190123)
-</div>
 
 
 ## 📫 Contact Me
