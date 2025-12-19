@@ -29,6 +29,7 @@ Currently: Looking for fulltime work whilst creating personal projects.
 ## 🔥 Recent Projects
 
 **🎯 Box Office Predictor and Analysis** 
+<p> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs" /> </p>
 Business Problem: People are not going to the movies anymore, Streaming is gradually taking over, and Ticket prices are slowly rising.
 
 Analysis: Multi-decade analysis analyzing the relationship between ticket prices, box office turnout, movie genres, and cinema culture from 1977-Present.
