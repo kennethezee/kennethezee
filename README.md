@@ -11,6 +11,7 @@ Python • SQL • Tableau<br>
 Data is the driving force for decision making and I enjoy diving head first into the data to find those hidden clues you would find else where.<br>
 
 Currently: Looking for fulltime work whilst creating personal projects.<br>
+<br>
 <a href="https://www.linkedin.com/in/kenneth-eze/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
