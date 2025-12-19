@@ -92,7 +92,7 @@ features.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kenneth-eze/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennetheze530@gmail.com)
-[![Art](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=Red)]([https://yourportfolio.com](https://www.youtube.com/@kennethezee))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kennethezee)
 
 </div>
 
