@@ -68,23 +68,22 @@ Skills: Data Visualization • Regulatory Reporting • APIs
 <br>
 **Overview** <br>
 
-    • Designed and maintained centralized dashboard systems to provide a friendly user interface for student activities, clubs, service
-    times, and assignment monitoring. Implemented data storage techniques and database optimization using NoSQL systems to
-    efficiently store and retrieve user data resulting in faster accessing times for in-app functions. <br>
-    • Led comprehensive data collection, processing, and analysis for university’s digital platform serving 1,000+ users,
-    implementing advanced analytics tracking using Firebase Analytics and Google Analytics allowing in timely distribution of app
-    packages.<br>
-    • Collaborated and with a cross-functional engineering team of 5 members to define critical data measurements, analyze system
-    performance metrics, and develop effective in-app features for faculty and students resulting in a 25% in app traffic per school
-    year. <br>
-    • Presented technical findings and process improvement opportunities in bi-weekly meetings with faculty leadership to
-    drive strategic decision-making and organizational performance evaluation resulting in effective and consistent shipment of new
-    features.
+• Designed and maintained centralized dashboard systems to provide a friendly user interface for student activities, clubs, service
+times, and assignment monitoring. Implemented data storage techniques and database optimization using NoSQL systems to
+efficiently store and retrieve user data resulting in faster accessing times for in-app functions. <br>
+• Led comprehensive data collection, processing, and analysis for university’s digital platform serving 1,000+ users,
+implementing advanced analytics tracking using Firebase Analytics and Google Analytics allowing in timely distribution of app
+packages.<br>
+• Collaborated and with a cross-functional engineering team of 5 members to define critical data measurements, analyze system
+performance metrics, and develop effective in-app features for faculty and students resulting in a 25% in app traffic per school
+year. <br>
+• Presented technical findings and process improvement opportunities in bi-weekly meetings with faculty leadership to
+drive strategic decision-making and organizational performance evaluation resulting in effective and consistent shipment of new
+features.
 <br> <br>
 
 <div align="center">
   [![UD Mall App](https://img.shields.io/badge/UD%20Mall%20App-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/ge/app/the-mall-ud/id1581190123)
-<br>
 </div>
 
 
