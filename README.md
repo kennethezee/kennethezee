@@ -60,13 +60,13 @@ Skills: Data Visualization • Regulatory Reporting • APIs
 
 ---
   
-### **🌟 The Mall App**<br>
+**🌟 The Mall App**<br>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=dart&logoColor=black" /><br>
 <br>
-**Overview**
+**Overview** <br>
 • Designed and maintained centralized dashboard systems to provide a friendly user interface for student activities, clubs, service
 times, and assignment monitoring. Implemented data storage techniques and database optimization using NoSQL systems to
 efficiently store and retrieve user data resulting in faster accessing times for in-app functions. <br>
@@ -80,7 +80,7 @@ year. <br>
 drive strategic decision-making and organizational performance evaluation resulting in effective and consistent shipment of new
 features.
 <br>
-[![UD Mall App](https://img.shields.io/badge/UD%20Mall%20App-000000?style=flat&logo=apple&logoColor=white)](YOUR_APP_STORE_LINK_HERE)
+[![UD Mall App](https://img.shields.io/badge/UD%20Mall%20App-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/ge/app/the-mall-ud/id1581190123)
 <br>
 
 ## 📫 Contact Me
