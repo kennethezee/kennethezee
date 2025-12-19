@@ -60,7 +60,7 @@ Skills: Data Visualization • Regulatory Reporting • APIs
 
 ---
   
-**🌟 The Mall App**<br>
+### **🌟 The Mall App**<br>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=firebase&logoColor=white" />
@@ -69,13 +69,13 @@ Skills: Data Visualization • Regulatory Reporting • APIs
 **Overview**
 • Designed and maintained centralized dashboard systems to provide a friendly user interface for student activities, clubs, service
 times, and assignment monitoring. Implemented data storage techniques and database optimization using NoSQL systems to
-efficiently store and retrieve user data resulting in faster accessing times for in-app functions.
+efficiently store and retrieve user data resulting in faster accessing times for in-app functions. <br>
 • Led comprehensive data collection, processing, and analysis for university’s digital platform serving 1,000+ users,
 implementing advanced analytics tracking using Firebase Analytics and Google Analytics allowing in timely distribution of app
-packages.
+packages.<br>
 • Collaborated and with a cross-functional engineering team of 5 members to define critical data measurements, analyze system
 performance metrics, and develop effective in-app features for faculty and students resulting in a 25% in app traffic per school
-year. 
+year. <br>
 • Presented technical findings and process improvement opportunities in bi-weekly meetings with faculty leadership to
 drive strategic decision-making and organizational performance evaluation resulting in effective and consistent shipment of new
 features.
