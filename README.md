@@ -70,19 +70,19 @@ Skills: Data Visualization • Regulatory Reporting • APIs
 [Violence_Detection_Using_Ensemble_Learning_REPORT.pdf](https://github.com/user-attachments/files/24274702/Violence_Detection_Using_Ensemble_Learning_REPORT.pdf)
 <br>
 <br>
-Business Problem:<br> 
+**Business Problem:**<br> 
 • When crimes are commited there is a large time gap between the crime and action taken by first responders. This time gap leads to criminals fleeing the scene and in some cases getting away from the crime, severe injury left unattended, less incentive to stop crimes, etc. 
 
-Motives:<br>
+**Motives:**<br>
 • Current models, while powerful, often face challenges in handling the complexity and variability  of real-world violent scenarios. 
 • A single model no matter how sophisticated, could struggle to capture the full range of these  variations due to its finite capacity and the specific biases it undergoes and develops while  training.
 • To enhance and refine existing deep learning methods for violence detection.
 
-Goal:<br>
+**Goal:**<br>
 • We propose an ensemble method using the stacking technique, which combines the outputs of a 3D CNN, a  simple CNN, and an RNN. The goal is to improve existing deep learning benchmarks that were trained on surveillance data by creating a more thorough violence detection method.
 
 
-Key Findings:
+**Key Findings**:
 
     By integrating multiple models, stacking can reduce overfitting and improve generalization, which is crucial for detecting 
     violence due to the environmental nuances present in video frames. 
@@ -96,14 +96,17 @@ Key Findings:
 violence detection, is crucial for enhancing public safety 
 and security in various environments in areas such as 
 schools, public transportation, cities, and public areas. 
+
 • Effective surveillance systems can act as a deterrent to 
 potential offenders, as the chances of detecting violent 
 acts is increased. <br> 
 
 • Authorities and first responders can be notified 
 expeditiously and respond more swiftly to prevent harm 
-and mitigate the escalation of violent incidents.  
-• Foster a sense of security within communities.  
+and mitigate the escalation of violent incidents.
+
+• Foster a sense of security within communities.
+
 • Enhanced surveillance can provide valuable data for law enforcement and 
 policymakers to understand the patterns and causes of 
 violence, thus leading to more structured and better 
