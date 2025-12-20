@@ -64,23 +64,22 @@ Skills: Data Visualization • Regulatory Reporting • APIs
 ---
 🚓 **Violence Detection Using Ensemble Learning** <br>
 <br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="[https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <br>
-[![Read my detailed report here!](https://img.shields.io/badge/Visit-My_Site-blue?style=for-the-badge)]([Violence_Detection_Using_Ensemble_Learning_REPORT.pdf](https://github.com/user-attachments/files/24274691/Violence_Detection_Using_Ensemble_Learning_REPORT.pdf)
-)
+[Violence_Detection_Using_Ensemble_Learning_REPORT.pdf](https://github.com/user-attachments/files/24274702/Violence_Detection_Using_Ensemble_Learning_REPORT.pdf)
 <br>
 <br>
 Business Problem:<br> 
-When crimes are commited there is a large time gap between the crime and action taken by first responders. This time gap leads to criminals fleeing the scene and in some cases getting away from the crime, severe injury left unattended, less incentive to stop crimes, etc. 
+• When crimes are commited there is a large time gap between the crime and action taken by first responders. This time gap leads to criminals fleeing the scene and in some cases getting away from the crime, severe injury left unattended, less incentive to stop crimes, etc. 
 
-Motive:<br>
-Current models, while powerful, often face challenges in handling the complexity and variability  of real-world violent scenarios. 
-A single model no matter how sophisticated, could struggle to capture the full range of these  variations due to its finite capacity and the specific biases it undergoes and develops while  training.
-To enhance and refine existing deep learning methods for violence detection.
+Motives:<br>
+• Current models, while powerful, often face challenges in handling the complexity and variability  of real-world violent scenarios. 
+• A single model no matter how sophisticated, could struggle to capture the full range of these  variations due to its finite capacity and the specific biases it undergoes and develops while  training.
+• To enhance and refine existing deep learning methods for violence detection.
 
 Goal:<br>
-We propose an ensemble method using the stacking technique, which combines the outputs of a 3D CNN, a  simple CNN, and an RNN. The goal is to improve existing deep learning benchmarks that were trained on surveillance data by creating a more thorough violence detection method.
+• We propose an ensemble method using the stacking technique, which combines the outputs of a 3D CNN, a  simple CNN, and an RNN. The goal is to improve existing deep learning benchmarks that were trained on surveillance data by creating a more thorough violence detection method.
 
 
 Key Findings:
@@ -91,21 +90,21 @@ Key Findings:
     generalization to unseen data—an essential feature when working with diverse datasets that may vary in characteristics 
     such as location, population, and resolution.
 
-Business Applications/Solution:
+**Business Applications/Solution:**
 
-Improvements in the area of surveillance, specifically in 
+• Improvements in the area of surveillance, specifically in 
 violence detection, is crucial for enhancing public safety 
 and security in various environments in areas such as 
 schools, public transportation, cities, and public areas. 
-Effective surveillance systems can act as a deterrent to 
+• Effective surveillance systems can act as a deterrent to 
 potential offenders, as the chances of detecting violent 
 acts is increased. <br> 
 
-Authorities and first responders can be notified 
+• Authorities and first responders can be notified 
 expeditiously and respond more swiftly to prevent harm 
 and mitigate the escalation of violent incidents.  
-Foster a sense of security within communities.  
-Enhanced surveillance can provide valuable data for law enforcement and 
+• Foster a sense of security within communities.  
+• Enhanced surveillance can provide valuable data for law enforcement and 
 policymakers to understand the patterns and causes of 
 violence, thus leading to more structured and better 
 prepared industries surrounding violence prevention. 
